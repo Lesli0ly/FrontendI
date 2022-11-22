@@ -1,0 +1,41 @@
+header {
+    background-color: lightseagreen;
+    color: white;
+    font-size: 28px;
+    border-bottom-color: indigo;
+    border-bottom-width: 3px;
+    border-bottom-style:solid;
+    padding: 22px;
+    margin-bottom: 15px;
+    text-align: center;
+    box-sizing:border-box;
+    }
+    
+    section {
+    width:50%;
+    margin-left: 25%;
+    background-color:gainsboro;
+    margin-bottom: 15px;
+    padding-left: 12px;
+    padding-top:30px;
+    padding-bottom:30px;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: black;
+    border-radius:5px;
+    text-align: center;
+    box-sizing: border-box;
+    }
+    
+    footer 
+    {
+    height: 40px;
+    Background-color: rebeccapurple;
+    color: white;
+    border-top-style: solid; 
+    border-top-weigth:1px;
+    border-top-color:lightseagreen;
+    padding:12px;
+    text-align: center;
+    box-sizing:border-box;
+    }

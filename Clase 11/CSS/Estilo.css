@@ -1,0 +1,40 @@
+
+    body{
+        font-family: arial, sans-serif;
+    }
+    
+    header{
+        background-color: black;
+        color:white
+    }
+    
+    nav-bar{
+    text-align: right;
+    }
+
+        
+    h2{
+        color: red;
+    }
+    #comprando{
+        text "comprando" color: white;
+    }
+    footer{
+        background-color: black;
+        color:white;
+        text-align:left
+}
+
+h1{
+    backround-color:rgba(0, 0, 0, 0.8);
+    color: #f4e033;
+    }
+    
+    h2{
+    backround-color: orange;
+    color: white;
+    }
+    h2{
+       opacity:0,4;
+    }
+    
